@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\AllPrimeNumbers\AllPrimeNumbers\bin\Debug\AllPrimeNumbers.exe.config
+C:\Users\asus\source\repos\AllPrimeNumbers\AllPrimeNumbers\bin\Debug\AllPrimeNumbers.exe
+C:\Users\asus\source\repos\AllPrimeNumbers\AllPrimeNumbers\bin\Debug\AllPrimeNumbers.pdb
+C:\Users\asus\source\repos\AllPrimeNumbers\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\AllPrimeNumbers\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\AllPrimeNumbers\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.exe
+C:\Users\asus\source\repos\AllPrimeNumbers\AllPrimeNumbers\obj\Debug\AllPrimeNumbers.pdb
