@@ -1,0 +1,7 @@
+C:\Users\asus\source\repos\MinMaxAvgValue\MinMaxAvgValue\bin\Debug\MinMaxAvgValue.exe.config
+C:\Users\asus\source\repos\MinMaxAvgValue\MinMaxAvgValue\bin\Debug\MinMaxAvgValue.exe
+C:\Users\asus\source\repos\MinMaxAvgValue\MinMaxAvgValue\bin\Debug\MinMaxAvgValue.pdb
+C:\Users\asus\source\repos\MinMaxAvgValue\MinMaxAvgValue\obj\Debug\MinMaxAvgValue.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\MinMaxAvgValue\MinMaxAvgValue\obj\Debug\MinMaxAvgValue.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\MinMaxAvgValue\MinMaxAvgValue\obj\Debug\MinMaxAvgValue.exe
+C:\Users\asus\source\repos\MinMaxAvgValue\MinMaxAvgValue\obj\Debug\MinMaxAvgValue.pdb
