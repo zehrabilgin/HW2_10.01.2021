@@ -1,0 +1,6 @@
+C:\Users\asus\source\repos\SehirIndex\SehirIndex\bin\Debug\SehirIndex.exe.config
+C:\Users\asus\source\repos\SehirIndex\SehirIndex\bin\Debug\SehirIndex.exe
+C:\Users\asus\source\repos\SehirIndex\SehirIndex\bin\Debug\SehirIndex.pdb
+C:\Users\asus\source\repos\SehirIndex\SehirIndex\obj\Debug\SehirIndex.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\SehirIndex\SehirIndex\obj\Debug\SehirIndex.exe
+C:\Users\asus\source\repos\SehirIndex\SehirIndex\obj\Debug\SehirIndex.pdb
